@@ -5,8 +5,8 @@ Here are some low-resolution statements that might help you place me in context:
 * I like building systems that interact with other systems. I’ve done this using a variety of distributed computing approaches, including publish/subscribe, REST, services-based, MPI, p2p. I like decentralized and asynchronous designs better than tightly-coupled ones.
 * One particular subset of those kinds of systems that I like thinking about is workflows. I’ve worked on middleware and data management solutions for efficient data movement and analysis in large-scale computational science workflows, both as an academic and as a researcher at Sandia National Laboratories.
 * Another problem area I like to think about is directory (really, distributed-state) services for those kind of workflows, supporting activities like bootstrapping, data registration, and data-flow management.
-* I’ve designed and developed software on POSIX-flavored systems for over 20 years. Along the way I’ve gotten to use C++, C, Python, and Java; I’ve done some not-so-serious work in Go, Erlang, Scala, and a couple of other anguages. I also am a co-author of over 40 peer-reviewed research publications - here’s proof: Google Scholar.
-* Emacs > vi, (zsh ~= bash) > tcsh, spaces > tabs, USENET > reddit, and I finally gave up org-mode in favor of OneNote.
+* I’ve designed and developed software on POSIX-flavored systems for over 20 years. Along the way I’ve gotten to use C++, C, Python, Ada, and Java; I’ve done some not-so-serious work in Go, Erlang, Scala, and a couple of other languages. I also am a co-author of a bunch of peer-reviewed research publications - here’s proof: [Google Scholar](https://scholar.google.com/citations?user=HtUSUh0AAAAJ&hl=en).
+* Emacs > vi, (zsh ~= bash) > tcsh, spaces > tabs, USENET > reddit, macports > homebrew, and I finally gave up org-mode in favor of OneNote.
 
 <!--
 **pwidene/pwidene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
